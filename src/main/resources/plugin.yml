@@ -1,0 +1,5 @@
+name: PaperCommandLib
+version: '${version}'
+main: fr.swansky.papercommandlib.CommandLib
+api-version: 1.19
+
